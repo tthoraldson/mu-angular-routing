@@ -1,0 +1,17 @@
+/* CSS DOCUMENT */
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.space {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.valor {
+  margin-right: 5%;
+}
